@@ -5,6 +5,8 @@ Aprenderemos muchas cosas
 
 Master 1
 
+Master 2
+
 Cosas para aprender:
 GitHub
 Python
